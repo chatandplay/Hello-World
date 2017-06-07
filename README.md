@@ -1,2 +1,3 @@
 # Hello-World
-Hetting started with GitHub
+Getting started with GitHub
+prime prove
